@@ -1,0 +1,57 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(55, 59, 59);
+    
+    
+}
+    
+#headline {
+    font-size: 40px;
+    font-weight:bold;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+#text-logo {
+    text-align: center;
+    margin-top: 25px;
+
+    
+}
+#text1 {
+    font-size: 25px ; 
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+#text2 {
+    font-size: 25px;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+#text3 {
+    font-size: 25px;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+
+#text4 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+    color: white;
+}
+
+#navigation a {
+
+    
+}
+
+
